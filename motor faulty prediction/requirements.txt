@@ -1,0 +1,13 @@
+ipykernel
+joblib
+pandas>=2.0
+numpy
+scipy
+scikit-learn>=1.4
+joblib
+matplotlib
+pyserial
+paho-mqtt
+h5py
+streamlit>=1.37
+reportlab>=4

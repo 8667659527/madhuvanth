@@ -1,0 +1,11 @@
+timestamp,sequence,accel_x_adc,accel_y_adc,accel_z_adc,vibration_x_delta,vibration_y_delta,vibration_z_delta,temperature_c,rpm,hall_do,alarm_temperature,alarm_rpm,alarm_vibration,buzzer_on,ml_prediction,ml_fault_fraction,ml_out_of_training_range
+2026-11-02T17:42:41+05:30,0,1781,1584,1810,2,1,1,93.0,0,HIGH,True,False,False,True,0,0.0,True
+2026-11-02T17:42:42+05:30,1,1779,1583,1808,4,0,1,36.0,0,HIGH,True,False,False,True,0,0.0,True
+2026-11-02T17:42:43+05:30,2,1794,1584,1814,11,1,5,35.2,0,HIGH,True,False,False,True,0,0.0,True
+2026-11-02T17:42:44+05:30,3,1790,1584,1811,7,1,2,35.3,0,HIGH,True,False,False,True,0,0.0,True
+2026-11-02T17:42:45+05:30,4,1787,1584,1811,4,1,2,35.2,0,HIGH,True,False,False,True,0,0.0,True
+2026-11-02T17:42:46+05:30,5,1778,1584,1810,5,1,1,35.2,0,HIGH,True,False,False,True,0,0.0,True
+2026-11-02T17:42:47+05:30,6,1783,1601,1810,0,18,1,35.0,0,HIGH,True,False,False,True,0,0.0,True
+2026-11-02T17:42:48+05:30,7,1781,1583,1814,2,0,5,35.3,0,HIGH,True,False,False,True,0,0.0,True
+2026-11-02T17:42:49+05:30,8,1776,1584,1808,7,1,1,35.1,0,HIGH,True,False,False,True,0,0.0,True
+2026-11-02T17:42:50+05:30,9,1781,1584,1809,2,1,0,35.0,0,HIGH,True,False,False,True,0,0.0,True
